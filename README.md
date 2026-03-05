@@ -27,7 +27,7 @@ System & Network Administrator from Greece.
 - **VPN-Mikro**
   Desktop VPN client with MikroTik / WireGuard integration.
 
-- **Mikrotik-ASS**
+- **Mikrotik-AS**
   RouterOS automation and setup scripts.
 
 - **OutlookCredentialCleaner**
