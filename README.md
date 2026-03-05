@@ -27,8 +27,8 @@ System & Network Administrator from Greece.
 - **VPN-Mikro**
   Desktop VPN client with MikroTik / WireGuard integration.
 
-- **Mikrotik-AS**
-  RouterOS automation and setup scripts.
+- **Bulk Email Sender**
+  bulk personalized emails via SMTP.
 
 - **OutlookCredentialCleaner**
   Tool to fix Outlook credential issues.
